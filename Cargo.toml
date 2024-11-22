@@ -2,5 +2,9 @@
 name = "to_sandbox"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["Takumi Okamoto <takumi1988okamoto@gmail.com>"]
+keywords = ["sandbox","hi"]
+repository = "https://github.com/MrBearing/to_sandbox"
+description = "Githubの挙動を確かめるだけ"
+license = "WTFPL"
 [dependencies]
